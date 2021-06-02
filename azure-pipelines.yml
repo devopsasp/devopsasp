@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool:pool
+pool:
+     DESKTOP-1LRH8EH
 
 steps:
 - script: echo Hello, world!
