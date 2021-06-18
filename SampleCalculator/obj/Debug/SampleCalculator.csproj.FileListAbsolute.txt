@@ -1,0 +1,7 @@
+C:\Users\SAILESH A\source\repos\gitdemo\SampleCalculator\bin\Debug\SampleCalculator.exe.config
+C:\Users\SAILESH A\source\repos\gitdemo\SampleCalculator\bin\Debug\SampleCalculator.exe
+C:\Users\SAILESH A\source\repos\gitdemo\SampleCalculator\bin\Debug\SampleCalculator.pdb
+C:\Users\SAILESH A\source\repos\gitdemo\SampleCalculator\obj\Debug\SampleCalculator.csprojAssemblyReference.cache
+C:\Users\SAILESH A\source\repos\gitdemo\SampleCalculator\obj\Debug\SampleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SAILESH A\source\repos\gitdemo\SampleCalculator\obj\Debug\SampleCalculator.exe
+C:\Users\SAILESH A\source\repos\gitdemo\SampleCalculator\obj\Debug\SampleCalculator.pdb
